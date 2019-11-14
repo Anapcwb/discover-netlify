@@ -8,4 +8,4 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [https://boring-euler-d23e0e.netlify.com]()
+* Link to the website deployed on Netlify : https://boring-euler-d23e0e.netlify.com
